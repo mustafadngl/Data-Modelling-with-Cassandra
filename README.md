@@ -1,6 +1,6 @@
 # Cassandra-Basic-Data-Modelling-Template
 This repository provides fresh start with data modelling from first project in udacity nanodegree program. 
-In .ipynb folder every step explained in docstring. In order to process locally, all folders should be stated in same folder. 
+In `Project_Template.ipynb` folder every step explained in docstring. In order to process locally, all folders paths should be stated in same folder. 
 Also data file should be unzipped. In order to avoid errors, image file contains all [images](https://github.com/mustafathemech/Cassandra-Basic-Data-Modelling-Template-via_udacity-/tree/main/images) which are explained in template.
 Project is a cassandra database based on project in order to apply ETL processes via a cluster. 
 Also, shows upright understanding on industrial concepts of data implementation.
